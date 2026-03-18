@@ -16,7 +16,4 @@ Visual Identity: Criação de um sistema visual limpo e moderno para gestão fin
 User Testing: Validação do design através de métricas de usabilidade, garantindo uma curva de aprendizagem mínima.
 
 🛠️ Tools Used
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![User Research](https://img.shields.io/badge/User%20Research-blue?style=for-the-badge)
-![Usability Testing](https://img.shields.io/badge/Usability%20Testing-green?style=for-the-badge)
-![Nielsen Heuristics](https://img.shields.io/badge/Nielsen%20Heuristics-orange?style=for-the-badge)
+`Figma` `User Research` `Information Architecture` `Usability Testing`
