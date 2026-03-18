@@ -4,16 +4,16 @@
 Full UI/UX Design Cycle | IPC @ FEUP
 
 🎨 The Design Process (UX Strategy)
-User & Task Analysis: Aplicação de análise PACT e criação de Personas detalhadas para alinhar o produto com as necessidades reais dos utilizadores.
+User & Task Analysis: Applied PACT analysis and developed detailed Personas to align the product with real user needs and pain points.
 
-Prototyping Evolution: Progressão de Low-Fidelity Wireframes (focados na estrutura) até High-Fidelity Prototypes (focados na interface final).
+Prototyping Evolution: Led the progression from Low-Fidelity Wireframes (focused on layout and structure) to High-Fidelity Prototypes (focused on final visual identity).
 
-Heuristic Evaluation: Identificação e correção de problemas de usabilidade baseada nas 10 heurísticas de Nielsen.
+Heuristic Evaluation: Identified and resolved usability friction based on Nielsen’s 10 Usability Heuristics.
 
 💻 Interface & Usability (UI Design)
-Visual Identity: Criação de um sistema visual limpo e moderno para gestão financeira, priorizando a clareza de dados.
+Visual Identity: Created a clean and modern visual system for financial management, prioritizing data clarity and visualization.
 
-User Testing: Validação do design através de métricas de usabilidade, garantindo uma curva de aprendizagem mínima.
+User Testing: Validated the design through usability metrics, ensuring a seamless experience and a minimal learning curve for new users.
 
 🛠️ Tools Used
 `Figma` `User Research` `Information Architecture` `Usability Testing`
