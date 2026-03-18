@@ -17,3 +17,6 @@ User Testing: Validação do design através de métricas de usabilidade, garant
 
 🛠️ Tools Used
 `Figma` `User Research` `Information Architecture` `Usability Testing`
+
+Live Version
+[Growplify](https://www.figma.com/design/JHoVlFNCRBnXLyurKaufbm/IPC?node-id=0-1&p=f&t=wJaW4AG3PRsb1q4G-0)
